@@ -1,8 +1,8 @@
 # Medimart
 
 ## Other contributors:
-- https://github.com/Rahim-aust
-- https://github.com/SajidAbdullah729
+- Abdur Rahim Mia https://github.com/Rahim-aust
+- Md. Abdullah Al Sajid Chowdhury https://github.com/SajidAbdullah729
 
 A desktop software to manage pharmacy medicine.
 
